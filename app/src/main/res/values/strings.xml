@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MediAlarm</string>
+    <string name="title_activity_main">Medicines</string>
+    <string name="title_activity_add_medicine">AddMedicineActivity</string>
+    <!--Add Medicine Strings-->
+    <string name="et_medicine_name">Medicine Name</string>
+    <string name="tv_dose">Dose</string>
+    <string name="et_dose_value_hint">100</string>
+    <string name="tv_start_date">Tap to set start date</string>
+    <string name="tv_start_time">Tap to set time</string>
+    <string name="et_interval_hint">Set Interval Hours</string>
+    <string name="et_note">Notes</string>
+    <string name="btn_add">Done</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+
+    <string-array name="dos">
+        <item>mg</item>
+        <item>ml</item>
+        <item>pills</item>
+        <item>teaspoons</item>
+        <item>tablespoons</item>
+        <item>drops</item>
+    </string-array>
+</resources>
